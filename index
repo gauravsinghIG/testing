@@ -1,0 +1,7 @@
+<html>
+
+<body>
+    <script> window.location.replace("upi://mandate?pa=paytm-630913@ptybl&pn=IMPACTGURUTECHNOLOGYVENTURESPRIVATE&mc=8398&tid=PYTM50701803140777557005XXXXXXXXXXX&tr=PAYTMSUBS50701803140777557005&tn=Amount%20to%20be%20paid%20now%20is%20Rs%20100.00&am=100.00&cu=INR&mode=04&purpose=14&orgid=000000&validitystart=01072025&validityend=01072035&amrule=MAX&recur=ASPRESENTED&mn=Subscription%20for%20IMPACTGURUTEC&fam=100.00&txnType=CREATE"); </script>
+</body>
+
+</html>
